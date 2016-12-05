@@ -1,5 +1,3 @@
-
-
 def attack_damage(p1, p2, move):
 	modifier = 1
 	CRIT = False
