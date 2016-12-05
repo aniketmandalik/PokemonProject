@@ -1,6 +1,6 @@
 from json import loads
-from small import results
-from PokemonClass import Pokemon
+from formatted_little_data import results
+from Pokemon import Pokemon
 
 json = loads(results)
 pokemons_list = []
