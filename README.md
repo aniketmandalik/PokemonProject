@@ -1,7 +1,6 @@
 # Pokemon Project
 - Short Term Goal: Develop a command-line Pokemon simulator.
 - Long Term Goal: Develop a highly skilled Pokemon-playing AI.
-
 - Pokemon.py = Represents a Pokemon
 - DamageCalculator.py = Calculates damage one pokemon does to another with a certain move.
 - all_data.js = All pokemon Data.
